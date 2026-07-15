@@ -1,3 +1,6 @@
+# 2_brogram
+The Simple 30 Workouts Training Plan || Built with JavaScript , CSS & HTML
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
